@@ -20,6 +20,7 @@ Notes: Login and passwor are hardcoded directly into the store because the "SkyS
 </div>
 <div> 
  <div>
+  <br/>
  <a href="https://www.figma.com/file/x84Q8T8ya6aSgWFLWkHGBz/React/">Design from the employer on Figma</a>
  </div>
  <div>
