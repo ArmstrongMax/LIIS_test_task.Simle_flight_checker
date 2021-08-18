@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+    font-family: "Roboto";
+    src: url('./Fonts/Roboto-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "SF Pro Text";
+    src: url('./Fonts/SFProDisplay-Regular.ttf') format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}

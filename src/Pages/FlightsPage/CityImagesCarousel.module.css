@@ -1,0 +1,10 @@
+.carouselContainer {
+    margin-top: 24px;
+    margin-bottom: 31px;
+}
+.carouselContainer img {
+    width: 164px;
+    height: 149px;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}

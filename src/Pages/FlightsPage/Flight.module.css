@@ -1,0 +1,60 @@
+.flightContainer {
+    font-family: "SF Pro Text", serif;
+    display: grid;
+    grid-template-areas: 'pl cit li' 'pl da da' 'pl ca pr';
+    grid-template-columns: 100px auto auto;
+    margin-right: 10px;
+}
+
+.planeIcon {
+    grid-area: pl;
+    margin-left: 19px;
+}
+
+.cities {
+    grid-area: cit;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+}
+
+.likeIcon {
+    grid-area: li;
+    text-align: right;
+}
+.likeIcon:hover {
+    cursor: pointer;
+}
+
+.date {
+    grid-area: da;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #878787;
+}
+
+.carrier {
+    grid-area: ca;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #878787;
+}
+
+.price {
+    grid-area: pr;
+    text-align: right;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+}
+
+.price .priceLabel {
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #878787;
+}

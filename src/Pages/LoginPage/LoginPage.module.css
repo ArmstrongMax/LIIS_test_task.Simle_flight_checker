@@ -1,0 +1,92 @@
+.loginPageContainer {
+    position: fixed;
+    top: 0;
+    left: -0.3%;
+    width: 100.6%;
+    height: 100%;
+    background-image: url('../../Images/Background.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.blur {
+    position: fixed;
+    backdrop-filter: blur(3px);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.loginFormContainer {
+    text-align: center;
+    position: relative;
+    margin: 30vh auto;
+    width: 410px;
+    height: 338px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.loginForm {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    position: relative;
+    margin-left: 33px;
+    margin-right: 32px;
+}
+
+.loginForm h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    padding-top: 53px;
+}
+
+.loginField {
+    text-align: left;
+    margin-top: 16px;
+}
+
+.passwordField {
+    text-align: left;
+    margin-top: 25px;
+}
+
+.submitButtonField {
+    text-align: right;
+    margin-top: 25px;
+}
+
+.formControl {
+    width: 345px;
+    height: 34px;
+    border: 1px solid #C9CACC;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.submitButton {
+    color: white;
+    margin-top: 10px;
+    width: 116px;
+    height: 34px;
+    background: linear-gradient(104.34deg, #3C4CAD -15.34%, #00C3FF 145.95%);
+    border: none;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}
+
+.submitButton:hover {
+    cursor: pointer;
+    box-shadow: 0 0 4px #99A0A3;
+}
+
+.submitButton:active {
+    cursor: pointer;
+    background: linear-gradient(104.34deg, #5362BE -15.34%, #4AD5FF 145.95%);
+    border: 1.5px solid rgba(29, 138, 216, 0.3);
+}
