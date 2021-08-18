@@ -4,6 +4,9 @@ A simple SPA with validation and display of the list of flights Moscow - New-Yor
 A test task when applying for a job in the company LIIS.
 </div>
 <div>
+ <a href="https://simple-flights-checker.herokuapp.com"/>View demo</a>
+ </div>
+<div>
 <div>
  <h3>Authorisation account data:</h3>
 </div>
@@ -15,12 +18,7 @@ A test task when applying for a job in the company LIIS.
 <div>
 Notes: Login and passwor are hardcoded directly into the store because the "SkyScanner API" does not provide an endpoint for authorization and obtaining an authorization token 
 </div>
-<div>
- 
- 
- <div>
- <a href="https://simple-flights-checker.herokuapp.com"/>View demo</a>
- </div>
+<div> 
  <div>
  <a href="https://www.figma.com/file/x84Q8T8ya6aSgWFLWkHGBz/React/">Design from the employer on Figma</a>
  </div>
