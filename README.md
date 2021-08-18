@@ -27,6 +27,7 @@ Notes: Login and passwor are hardcoded directly into the store because the "SkyS
  <a href="https://rapidapi.com/skyscanner/api/skyscanner-flight-search/">API</a>
  </div>
  </div>
+ <br/>
 <div>
 Stack:
 <ul>
