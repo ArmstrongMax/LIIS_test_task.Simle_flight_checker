@@ -16,6 +16,8 @@ A test task when applying for a job in the company LIIS.
 Notes: Login and passwor are hardcoded directly into the store because the "SkyScanner API" does not provide an endpoint for authorization and obtaining an authorization token 
 </div>
 <div>
+ 
+ 
  <div>
  <a href="https://simple-flights-checker.herokuapp.com"/>View demo</a>
  </div>
