@@ -4,7 +4,9 @@ A simple SPA with validation and display of the list of flights Moscow - New-Yor
 A test task when applying for a job in the company LIIS.
 </div>
 <div>
-Authorisation account data:
+<div>
+ <h3>Authorisation account data:</h3>
+</div>
 <ul>
 <li>LOGIN: testacc@mail.ru </li>
 <li>PASSWORD: TestAcc1234& </li>
@@ -13,7 +15,7 @@ Authorisation account data:
 <div>
  <a href="https://simple-flights-checker.herokuapp.com"/>View demo</a>
  <a href="https://www.figma.com/file/x84Q8T8ya6aSgWFLWkHGBz/React/">Design from the employer on Figma</a>
- <a "https://rapidapi.com/skyscanner/api/skyscanner-flight-search/">API</a>
+ <a href="https://rapidapi.com/skyscanner/api/skyscanner-flight-search/">API</a>
  </div>
 <div>
 Stack:
